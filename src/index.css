@@ -15,11 +15,11 @@ body {
   padding: 16px;
   font-size: 24px;
   display: flex;
-  align-items: center;
+  /* align-items: center;
   justify-content: space-between;
   width: 100%;
   z-index: 10;
-  border-bottom: 1px solid #00000033;
+  border-bottom: 1px solid #00000033; */
 }
 
 .temporary {
