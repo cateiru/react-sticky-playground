@@ -6,7 +6,7 @@ function App() {
   useEffect(() => {
     const timer = setTimeout(() => {
       setDisplay(true);
-    }, 300);
+    }, 1000);
 
     return () => clearTimeout(timer);
   }, []);
